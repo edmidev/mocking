@@ -1,14 +1,20 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    {"data":{"isValid":true},"success":true}
-  },
-  "servre": {
-    {"data":{"isValid":true},"success":true}
-  }
+   "posts":[
+      {
+         "id":1,
+         "title":"hello"
+      }
+   ],
+   "profile":{
+      "data":{
+         "isValid":true
+      },
+      "success":true
+   },
+   "servre":{
+      "data":{
+         "isValid":true
+      },
+      "success":true
+   }
 }
